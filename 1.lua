@@ -79,7 +79,7 @@ end)
         	end	
                if getgenv().NotifMode then
     			game.StarterGui:SetCore("SendNotification", {
-        Title = "";
+        Title = "[V3] [AsianHub]";
         Text = "Target: "..tostring(Plr.Character.Humanoid.DisplayName);
     
     })
