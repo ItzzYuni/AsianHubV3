@@ -3,9 +3,9 @@
 
 local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/UI-Interface/CustomFIeld/main/RayField.lua'))()
 local Window = Rayfield:CreateWindow({
-    Name = "[AsianHub] Player Tween Teleport",
+    Name = "[V3] ™CuteWare Lua Softworks TP System",
     LoadingTitle = "Injecting...",
-    LoadingSubtitle = "by AsianHub",
+    LoadingSubtitle = "by CuteWare",
     ConfigurationSaving = {
        Enabled = false,
        FolderName = nil,
